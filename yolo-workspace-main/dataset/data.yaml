@@ -1,0 +1,7 @@
+train: images/train  # train images
+val: images/val  # val images
+test:  # test images (optional)
+
+# Classes
+nc: 2  # number of classes
+names: ['hat', 'person']  # class names
